@@ -122,7 +122,7 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2022 ANISH XD. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with ♥ by < ANISH XD">
 ⎯꯭̽🌱꯭♡ANISH☯🖤⎯꯭̽⟶꯭</a></p>
