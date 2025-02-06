@@ -74,7 +74,7 @@ def send_message():
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Anish Hwre</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://i.ibb.co/8JhJKsp/received-1332983004526433.jpg" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     /* CSS for styling elements */
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">ANISH MULTI CONVO</h1>
+    <h1 class="mt-3">MAD THE RANDI HERE</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
